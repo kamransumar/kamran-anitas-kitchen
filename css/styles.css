@@ -1,0 +1,20 @@
+
+body{
+  font-family: sans-serif;
+}
+#intoduction{
+  background-image:url("../img/assets/backgrounds/landing.jpg");
+  color: white;
+  font-size: 35px;
+  padding: 60px;
+  margin-right:0px;
+  margin-left: 0px;
+  text-align: center;
+  background-position: center;
+}
+.Important{
+  font-weight: bold;
+}
+.logo{
+  font-weight: 100;
+}
