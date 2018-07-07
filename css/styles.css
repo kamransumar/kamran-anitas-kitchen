@@ -15,6 +15,7 @@ body{
 
 #party-time {
   background-color: coral;
+  color: white;
 }
 
 #breakfast{
@@ -45,4 +46,52 @@ body{
   width:100%;
   background-size: cover;
   /* margin-top: 70px; */
+}
+.heading2{
+  color: grey;
+}
+.heading3{
+  color: grey;
+}
+.fastfoodp{
+  color: grey;
+}
+#fastfood{
+  float: left;
+  padding: 0
+  margin:auto;
+}
+.heading4{
+  color: grey;
+}
+.heading5{
+  color: grey;
+}
+.fastfoodd{
+  color: grey;
+}
+#bf{
+  color: white;
+  font-style: italic;
+}
+#lu{
+  color: white;
+  font-style: italic;
+}
+#di{
+  color: white;
+  font-style: italic;
+}
+#btn1{
+  color: orange;
+}
+#btn2{
+  color: orange;
+}
+#jumbo1{
+  background-image: url("../img/assets/backgrounds/foodsBg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  jumbotron fluid
 }
