@@ -59,7 +59,7 @@ body{
 #fastfood{
   float: left;
   padding: 0
-  margin:auto;
+
 }
 .heading4{
   color: grey;
@@ -82,11 +82,17 @@ body{
   color: white;
   font-style: italic;
 }
-#btn1{
+#btn1:hover{
   color: orange;
+  background: white;
+  padding: 2px;
+  font-size: 14px
 }
-#btn2{
+#btn2:hover{
   color: orange;
+  background: white;
+  padding: 2px;
+  font-size: 14px
 }
 #jumbo1{
   background-image: url("../img/assets/backgrounds/foodsBg.jpg");
@@ -111,6 +117,43 @@ text-align: center;
   color: grey;
   text-align: center;
 }
-#cust1{
-
+.topnav {
+    background-color: grey;
 }
+#jumbo3{
+  background-image: url("../img/assets/backgrounds/subscribe.jpg");
+}
+.topnav a {
+    color: black;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .topnav input[type=text] {
+      padding: 6px;
+      border: none;
+      font-size: 13px;
+      float: left;
+      background-color: grey;
+      color: white;
+  }
+#btn3{
+  -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    color: white;
+    background-color: orange;
+    float: right;
+    padding: 0;
+  }
+#jumbo4{
+  background-color: orange;
+}
+.heading6{
+  text-align: center;
+}
+#footerh3{
+  text-align: center;
+}
+.center {
+    display: grid;
+    margin-left: auto;
+    margin-right: auto;
