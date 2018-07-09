@@ -93,5 +93,24 @@ body{
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100%;
-  jumbotron fluid
+}
+#jumbo2{
+  background-color: white;
+  box-shadow: 10px 10px 5px grey;
+  border-radius: 25px;
+}
+#h3{
+color: orange;
+text-align: center;
+}
+#h4{
+  color: grey;
+  text-align: center;
+}
+#p2{
+  color: grey;
+  text-align: center;
+}
+#cust1{
+
 }
